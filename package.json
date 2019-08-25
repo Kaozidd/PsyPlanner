@@ -1,0 +1,16 @@
+{
+  "name": "agenda",
+  "version": "1.0.0",
+  "description": "Budgeting and management personal app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "management",
+    "budgeting"
+  ],
+  "author": "kaozidd",
+  "license": "ISC"
+}
